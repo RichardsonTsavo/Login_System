@@ -206,7 +206,6 @@ abstract class _AuthController with Store {
       }
       snackBar.showErrorSnackbar(errorMessage);
     }catch(onError){
-      print(onError);
       snackBar.showErrorSnackbar("An undefined error happened.");
     }
   }

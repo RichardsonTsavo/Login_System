@@ -1,7 +1,6 @@
 import 'package:email_validator/email_validator.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:flutter_password_strength/flutter_password_strength.dart';
 import 'package:portfolio/app/modules/login/login_store.dart';
 import 'package:flutter/material.dart';
 import 'package:portfolio/app/shared/utils/custom_text_form_field/custom_text_form_field.dart';
