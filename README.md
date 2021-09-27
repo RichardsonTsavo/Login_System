@@ -19,7 +19,7 @@
 * Obscure Password
 * Email Validator 
 
-information in English: For security reasons were removed the files with access keys to firebase, google login and facebook login, so if you make a clone of the repository be aware that it is necessary to make the settings of them.
+Warning: For security reasons were removed the files with access keys to firebase, google login and facebook login, so if you make a clone of the repository be aware that it is necessary to make the settings of them.
 
-Informações em português: Por questão de segurança foram removidos os arquivos com as chaves de acesso ao firebase, google login e facebook login, então caso faça um clone do repositório esteja ciente que é necessário fazer as configurações dos mesmos.
+Aviso: Por questão de segurança foram removidos os arquivos com as chaves de acesso ao firebase, google login e facebook login, então caso faça um clone do repositório esteja ciente que é necessário fazer as configurações dos mesmos.
 
